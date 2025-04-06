@@ -127,6 +127,3 @@ docker compose down
 
 ---
 
-Prepared by: 💻 ChatGPT + User (Vevivo) after successful installation & testing
-
-📦 Source repo: [https://github.com/cuckoo-network/stable-diffusion-miner-docker](https://github.com/cuckoo-network/stable-diffusion-miner-docker)
