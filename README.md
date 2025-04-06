@@ -115,3 +115,12 @@ docker compose down
 
 ---
 
+---
+
+## ❗️ Troubleshooting & Clarifications
+
+- **No GPU / NVIDIA Required:** This CPU setup does **not** require an NVIDIA GPU, driver, or CUDA toolkit.
+- If you get errors related to `nvidia-container-cli`, make sure you're using the correct command:
+  
+  ```bash
+  make start-cpu
